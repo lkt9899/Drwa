@@ -1,6 +1,6 @@
 # A708 
 
-# ![캡처-removebg-preview](/uploads/48eb51623a0fd66c4f9834feda6aca61/캡처-removebg-preview.png) Drwa (Debate Refined Wisdom Arena)
+# ![image](https://github.com/lkt9899/PS/assets/80976609/faa0e2ad-340c-47e9-8fcb-bc755430efec) Drwa (Debate Refined Wisdom Arena)
 
 ## 토론 게임 서비스
 
