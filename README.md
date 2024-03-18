@@ -100,7 +100,6 @@
   - Axios
   - Quasar
   - Pinia
-  -  
 
 - ####  Database
   - MySQL 8.3.0
@@ -111,6 +110,10 @@
   - Jenkins 2.426.2
   - Nginx 1.18.0
   - AWS EC2
+
+- #### etc
+  - JIRA
+  - Notion
 
 ####  Project Architecture
 
